@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Grid Test]]></title>
         <description><![CDATA[Grid Test]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/grid-test/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 16:07:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 Nov 2015 16:24:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/grid-test/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Westcliffe]]></title>
+            <description><![CDATA[<article><h1>About Westcliffe</h1><p>About Westcliffe Westcliffe Marketing has been serving its customers since 1996. Our self-imposed mandate is to assist as many companies or organizations as possible in garnering their place on the internet and in the gamut of social media.</p></article>]]></description>
+            <link>http://westcliffemarketing.com/about-us/</link>
+            <guid isPermaLink="false">e55787b7-b0c3-4498-95c8-0a56b7a5db81</guid>
+            <pubDate>Sun, 22 Nov 2015 16:24:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/grid-test/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">e23a10cc-f6c9-4ce4-a10d-9e6b42ef8d7a</guid>
             <pubDate>Sun, 22 Nov 2015 16:07:10 GMT</pubDate>
         </item>
